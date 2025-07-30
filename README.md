@@ -6,7 +6,7 @@ A lightweight, modular task management application built using **Spring Boot Web
 
 ## 📄 Project Documentation (PDF)
 
-For a detailed architectural breakdown, validation strategy, and API contract, refer to the [Documentation PDF]([docs/project-documentation.pdf](https://drive.google.com/file/d/1f0wYxHmcKRUKQnD2j3HPtSKGBO9nSCuH/view))
+For a detailed architectural breakdown, validation strategy, and API contract, refer to the [Documentation PDF](https://drive.google.com/file/d/1f0wYxHmcKRUKQnD2j3HPtSKGBO9nSCuH/view))
 
 
 ## 🚀 Features
